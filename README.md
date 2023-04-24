@@ -5,6 +5,12 @@ Movie World app using [The Movie DB](https://www.themoviedb.org) built with Comp
 - iOS
 - Android
 
+
+https://user-images.githubusercontent.com/34370836/234032166-47213190-cfc0-4f3a-b6a8-d000102c5de6.mp4
+
+
+
+
 # Main Features
 - Movie List
 - Movie Detail
@@ -30,6 +36,10 @@ This Compose Multiplatform project includes three modules:
 
 ### [`shared`](/shared)
 This is a Kotlin module that contains the logic common for both Android and iOS applications, the code you share between platforms.
+
+https://user-images.githubusercontent.com/34370836/234032913-0bff8126-6d56-408a-a4af-dd4fd2ad8715.mp4
+
+
 This shared module is also where you write your Compose Multiplatform code. In `shared/src/commonMain/kotlin/App.kt`, you can find the shared root `@Composable` function for your app.
 It uses Gradle as the build system. You can add dependencies and change settings in `shared/build.gradle.kts`. The shared module builds into an Android library and an iOS framework.
 
