@@ -6,6 +6,10 @@ Movie World app using [The Movie DB](https://www.themoviedb.org) built with Comp
 - Android
 
 
+
+https://user-images.githubusercontent.com/34370836/234033163-257dd925-343c-42af-b470-9160bf225ede.mp4
+
+
 https://user-images.githubusercontent.com/34370836/234032166-47213190-cfc0-4f3a-b6a8-d000102c5de6.mp4
 
 
